@@ -10,7 +10,6 @@ Bachelor's Degree in Computer Science.
 
 ### Interests
 
-* * * * *
 
 -   👨🏾‍💻 Code. (Obviously)
 -   🎧 Music
@@ -18,7 +17,6 @@ Bachelor's Degree in Computer Science.
 
 ### Say Hello on Social Media
 
-* * * * *
 
 -   Twitter [@JoeEverest165](https://twitter.com/JoeEverest165)
 -   Instagram [@joe.everest](https://www.instagram.com/joe.everest/)
