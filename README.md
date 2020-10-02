@@ -1,16 +1,25 @@
-### Hi there 👋
+Joe Everest - @JoeEverest165
+============================
 
-<!--
-**JoeEverest/JoeEverest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* * * * *
 
-Here are some ideas to get you started:
+Hi there 🙋🏾‍♂️, I'm Joseph (Everyone calls me Joe so I answer to that
+too). I'm a hobbyist programmer based in Arusha, Tanzania. Currently,
+I'm a Deceloper Student Clubs Lead for my college where I'm pursuing a
+Bachelor's Degree in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+* * * * *
+
+-   👨🏾‍💻 Code. (Obviously)
+-   🎧 Music
+-   🤝🏾 Using Technology to help my Community
+
+### Say Hello on Social Media
+
+* * * * *
+
+-   Twitter [@JoeEverest165](https://twitter.com/JoeEverest165)
+-   Instagram [@joe.everest](https://www.instagram.com/joe.everest/)
+
