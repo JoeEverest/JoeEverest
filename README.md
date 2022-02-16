@@ -3,12 +3,15 @@ Joe Everest - @JoeEverest165
 
 * * * * *
 
-Hi there 🙋🏾‍♂️, I'm Joseph (Everyone calls me Joe so I answer to that too). I'm a hobbyist programmer based in Arusha, Tanzania. Currently, I'm a Web Developer Lead for [The School of St Jude](http://schoolofstjude.org/) and I'm pursuing a Bachelor's Degree in Computer Science.
+Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Tanzania. Currently, I'm the Lead Developer for [The School of St Jude](http://schoolofstjude.org/) and I'm completing a Bachelor's Degree in Computer Science.
 
 ### Interests
 
 -   👨🏾‍💻 Code. (Obviously)
 -   🎧 Music
+-   💹 Economics
+-   🎨 Design
+-   🧑🏾‍💻 Startups
 -   🤝🏾 Using Technology to help my Community
 
 ### Say Hello on Social Media
