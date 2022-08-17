@@ -3,7 +3,7 @@ Joe Everest - @JoeEverest165
 
 * * * * *
 
-Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Tanzania. Currently, I'm the Lead Developer for [The School of St Jude](http://schoolofstjude.org/).
+Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Tanzania. I'm probably working on something cool atm.
 
 ### Interests
 
