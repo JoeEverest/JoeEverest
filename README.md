@@ -24,7 +24,7 @@ Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Ta
 </a>
 
 ### Reach Out
-- <a href="mailto:joe@joeeverest.space">
+<a href="mailto:joe@joeeverest.space">
 joe@joeeverest.space
 </a>
 
