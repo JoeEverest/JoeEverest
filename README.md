@@ -5,22 +5,10 @@ Joe Everest - @JoeEverest165
 
 Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Tanzania. I'm probably working on something cool atm.
 
-### Interests
-
--   👨🏾‍💻 Code. (Obviously)
--   🎧 Music
--   💹 Economics
--   🎨 Design
--   🧑🏾‍💻 Startups
--   🤝🏾 Using Technology to help my Community
-
 ### Say Hello
 
 <a href="https://twitter.com/JoeEverest165">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
-<a href="https://www.instagram.com/joe.everest/">
-<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </a>
 
 ### Reach Out
