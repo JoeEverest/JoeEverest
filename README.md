@@ -32,4 +32,4 @@ joe@joeeverest.space
  
 </table>
 
-<a href="http://www.github.com/JoeEverest"><img src="https://activity-graph.herokuapp.com/graph?username=JoeEverest&bg_color=14213d&color=ffffff&line=fca311&point=fca311&area_color=e5e5e5&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/JoeEverest"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoeEverest&bg_color=14213d&color=ffffff&line=fca311&point=e74331&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
