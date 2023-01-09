@@ -3,7 +3,7 @@ Joe Everest - @JoeEverest165
 
 * * * * *
 
-Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Tanzania. I'm probably working on something cool atm.
+Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Tanzania. I love building, let me know if you are working on something cool 🙂.
 
 ### Say Hello
 
@@ -12,6 +12,7 @@ Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Ta
 </a>
 
 ### Reach Out
+My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
 <a href="mailto:joe@joeeverest.space">
 joe@joeeverest.space
 </a>
