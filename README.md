@@ -13,7 +13,8 @@ Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Arusha, Ta
 
 ### Reach Out
 My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
-<a href="mailto:joe@joeeverest.space">
+<br/>
+Email: <a href="mailto:joe@joeeverest.space">
 joe@joeeverest.space
 </a>
 
