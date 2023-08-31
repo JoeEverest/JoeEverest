@@ -40,4 +40,4 @@ joe@joeeverest.space
  
 </table>
 
-<a href="http://www.github.com/JoeEverest"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoeEverest&bg_color=14213d&color=ffffff&line=fca311&point=e74331&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+[![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoeEverest&bg_color=14213d&color=ffffff&line=fca311&point=e74331&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
