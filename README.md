@@ -5,12 +5,6 @@ Joe Everest - @JoeEverest165
 
 Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Fairfield, Iowa. I love building, let me know if you are working on something cool 🙂.
 
-### Say Hello
-
-<a href="https://twitter.com/JoeEverest165">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
-
 ### Reach Out
 My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
 <br/>
