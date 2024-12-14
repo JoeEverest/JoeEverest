@@ -8,8 +8,12 @@ Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Fairfield,
 ### Reach Out
 My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
 <br/>
-Email: <a href="mailto:joe@joeeverest.space">
-joe@joeeverest.space
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JoeEverest"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### Skills
