@@ -9,13 +9,7 @@ Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Fairfield,
 My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
 <br/>
 <br/>
-<br/>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/JoeEverest"
-  width="600"
-  height="300"
-/>
+
 </a>
 
 ### Skills
