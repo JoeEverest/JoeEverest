@@ -24,7 +24,7 @@ My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
 <tr>
 <td>
   <a href="http://www.github.com/JoeEverest"><img src="https://github-readme-stats.vercel.app/api?username=JoeEverest&show_icons=true&hide=&count_private=true&title_color=fca311&text_color=ffffff&icon_color=d90429&bg_color=14213d&hide_border=true&show_icons=true" alt="JoeEverest's GitHub stats" /></a>
-  <a href="http://www.github.com/JoeEverest"><img src="https://git-hub-streak-stats.vercel.app/?user=JoeEverest&stroke=ffffff&background=14213d&ring=fca311&fire=ef4444&currStreakNum=ffffff&currStreakLabel=fca311&sideNums=fca311&sideLabels=ffffff&dates=ffffff&hide_border=true&mode=weekly" /></a>
+  <a href="http://www.github.com/JoeEverest"><img src="https://git-hub-streak-stats.vercel.app/?user=JoeEverest&stroke=ffffff&background=14213d&ring=fca311&fire=ef4444&currStreakNum=ffffff&currStreakLabel=fca311&sideNums=fca311&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </td>
 
    <td width='50%'>
