@@ -1,8 +1,3 @@
-Joe Everest - @JoeEverest165
-============================
-
-* * * * *
-
 Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Fairfield, Iowa.
 
 ### What I'm working on:
