@@ -1,4 +1,4 @@
-Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Fairfield, Iowa.
+Hi there 🙋🏾‍♂️, I'm Joe. I'm a Software Engineer based in Iowa.
 
 ### What I'm working on:
 * https://hiring.dproz.com/
@@ -6,9 +6,9 @@ Hi there 🙋🏾‍♂️, I'm Joe. I'm a software engineer based in Fairfield,
 
 ### Reach Out
 
-Want to collaborate? Feel free to reach out
+I'm currently looking for work. If you are hiring, please don't hesitate to reach out.
 
-My Portfolio: <a href="https://joeeverest.space">https://joeeverest.space</a>
+Linkedin: [https://www.linkedin.com/in/joeeverest165/](https://www.linkedin.com/in/joeeverest165/)
 
 ### My GitHub Stats
 
