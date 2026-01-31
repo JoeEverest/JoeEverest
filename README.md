@@ -1,12 +1,11 @@
-Hi there 🙋🏾‍♂️, I'm Joe. I'm a Software Engineer based in Iowa.
+Hi there 🙋🏾‍♂️, I'm Joe. I'm a Software Engineer based in New York.
 
 ### What I'm working on:
 * https://hiring.dproz.com/
+* https://ajirazone.com/
 * <a href="https://play.google.com/store/apps/details?id=space.joeeverest.stash">Stash</a>
 
 ### Reach Out
-
-I'm currently looking for work. If you are hiring, please don't hesitate to reach out.
 
 Linkedin: [https://www.linkedin.com/in/joeeverest165/](https://www.linkedin.com/in/joeeverest165/)
 
